@@ -18,6 +18,6 @@ Data and tools: PostgreSQL, MySQL, SQLite, Supabase, Git, Leaflet / OpenStreetMa
 
 ### 📬 Get in Touch
 
-**LinkedIn:** [Sharmiza](www.linkedin.com/in/sharmiza-saharudin-3545a641a)
+**LinkedIn:** [Sharmiza](https://www.linkedin.com/in/sharmiza-saharudin-3545a641a)
 
 ###  Building the future with a smile.
