@@ -16,7 +16,7 @@ Data and tools:
 
 
 ###  🚀 University Project
-**[MuslimMate](https://github.com/sharmiza/MuslimMate) - Islamic Companian Travel App**
+**[MuslimMate](https://github.com/sharmiza/MuslimMate) - Islamic Companian Travel Bot**
 <br>
 An interactive conversational assistant built to help users with everyday Islamic inquiries, daily supplications, prayer guidance and quick religious references through a clean chat interface.
 <br>
