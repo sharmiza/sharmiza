@@ -12,8 +12,7 @@ AI and machine learning: OpenAI API, Gemini, RAG and multi-agent workflows, prom
 Data and tools: PostgreSQL, MySQL, SQLite, Supabase, Git, Leaflet / OpenStreetMap
 
 
-###  🚀 Selected Projects
-
+###  🚀 University Project
 
 
 ### 📬 Get in Touch
