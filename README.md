@@ -6,10 +6,13 @@ I like taking everyday friction and turning it into software that is clear and r
 
 
 ### 🛠️ Technical Toolkit
-Languages: Python, Java, PHP, JavaScript, TypeScript, SQL
-Web and mobile: React, Next.js, FastAPI, Flask, JSP/Servlets, Android Studio, Tailwind CSS, HTML/CSS
-AI and machine learning: OpenAI API, Gemini, RAG and multi-agent workflows, prompt design, scikit-learn, ChromaDB, Tesseract OCR
-Data and tools: PostgreSQL, MySQL, SQLite, Supabase, Git, Leaflet / OpenStreetMap
+Languages: 
+
+Web and mobile: 
+
+AI and machine learning: 
+
+Data and tools: 
 
 
 ###  🚀 University Project
